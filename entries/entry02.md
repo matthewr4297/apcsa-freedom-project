@@ -10,7 +10,7 @@ Which is creating an app which allows local New Yorkers (Or person in a metro ar
 local convinience stores, deli's, pizza parlor's, anything that is convinent that is not a well known franchise such as McDonald's.  
   
 My goal is to give local's or tourists a tool to rate, discover, and advertise places that are lesser known to others outside of it's community, and also bring recognition and buisness to local favorites and reccomended places.    
-## The Language~
+## The Language
 
 Since I am developing for Android, normal Java would work just fine, although there are some things that make Kotlin a much better option _in my 
 opinion_. 

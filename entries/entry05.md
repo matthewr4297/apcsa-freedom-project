@@ -37,6 +37,15 @@ This piece of code is just to convert the entered value the user entered and con
 ` val numinput = findViewById<View>(R.id.numinput) as EditText `
 In my opinion, I just think that if I am going to finish this project, writing the code in Java will remain repetitive and simply take too long.
 
+Anyways, In terms of the EDP, I am creating the prototype, and brainstorming some aspects of the app, such as how will the user be able to record a location that will be classified as a viewable location?
+
+There _are_ some concerns that sprung up while attempting to impliment Google Maps API's in my app.
+
+You see, all you need to access all of Google's API's in an app is for that said developer to impliment an API key that they got from Google using a developer profile [Which is just your Google account].
+
+When you try to get your API key, you soon find out that Google wants to hold your **Banking Information**, and potentionally keep that API avalible for only 12 months. Thus, there needs to be more reaserch done inorder to correctly impliment the Google Maps API, and be able to take advantage of its capabilities.
+
+
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
